@@ -1,16 +1,18 @@
 # unsplash_test_project
 
-Unsplash test app
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Asynchronous programming (Used for making asynchronous request to Unsplash api)
+- async, await (For creating asynchronous functions)
+- assigning variables
+- widgets (Layout widgets, ListView) 
+    * Layout widgets(Center, Container, Stack)
+    * ListView(Created ListView with lazy loading.
+        Adds new items after scrolling to the end of the list)
+- TextStyle (Styling text font) 
+- assets (For including new font)
+- Material library 
+    (Scaffold, InkWell - for animated onTap, Icon, Icons)
+- reuse of a widget
+- StatefulWidget
+- StatelessWidget
+- constructor
+- http package (http GET resuests for fetching data from Unsplash api)
